@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# why this app
+
+figured i cant run a socket connection with the next js app dir, worked around this minimalapp as a way to figure out how to work with sockets in next js without using a node server, the pages dir worked, also did some tests to see how fast sockets are
 
 ## Getting Started
 
